@@ -1,0 +1,1 @@
+const C="pitbull-prague-v1",A=["./","index.html","manifest.webmanifest","assets/css/styles.css","assets/js/app.js","assets/icons/icon.svg"];self.addEventListener("install",e=>e.waitUntil(caches.open(C).then(c=>c.addAll(A))));self.addEventListener("fetch",e=>e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request))));
