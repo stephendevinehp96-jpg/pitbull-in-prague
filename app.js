@@ -1,4 +1,0 @@
-const target=new Date("2026-07-26T15:00:00+02:00").getTime();
-function tick(){const g=Math.max(0,target-Date.now());d.textContent=Math.floor(g/86400000);h.textContent=String(Math.floor(g%86400000/3600000)).padStart(2,"0");m.textContent=String(Math.floor(g%3600000/60000)).padStart(2,"0");s.textContent=String(Math.floor(g%60000/1000)).padStart(2,"0")}tick();setInterval(tick,1000);
-if("serviceWorker"in navigator)addEventListener("load",()=>navigator.serviceWorker.register("service-worker.js"));
-let p;addEventListener("beforeinstallprompt",e=>{e.preventDefault();p=e;install.hidden=false});install.onclick=async()=>{if(!p)return;p.prompt();await p.userChoice;p=null;install.hidden=true};
