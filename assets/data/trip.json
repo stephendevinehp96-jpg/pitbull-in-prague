@@ -1,0 +1,199 @@
+{
+  "concertTarget": "2026-07-26T20:30:00+02:00",
+  "days": [
+    {
+      "id": "sat",
+      "date": "Saturday 25 July",
+      "title": "Arrival and Café Savoy",
+      "summary": [
+        "05:00 — Leave Doncaster",
+        "08:00 — Maple Express",
+        "10:15 — BA852 departs",
+        "13:15 — Arrive Prague",
+        "15:00 — Airbnb check-in",
+        "18:00 — Café Savoy",
+        "Evening — Kampa / Charles Bridge"
+      ],
+      "timeline": [
+        [
+          "05:00",
+          "Leave Doncaster",
+          "Approx. 3-hour drive to Heathrow."
+        ],
+        [
+          "08:00",
+          "Maple Express Park & Ride",
+          "Booked arrival; shuttle to Terminal 3."
+        ],
+        [
+          "10:15",
+          "BA852 departs",
+          "Heathrow T3 → Prague T1; approx. 2 hours."
+        ],
+        [
+          "13:15",
+          "Arrive Prague",
+          "Local time; allow time for baggage and transfer."
+        ],
+        [
+          "15:00",
+          "Airbnb check-in",
+          "Dlouhá 717/40, Prague 1. Host Daniel; lockbox entry."
+        ],
+        [
+          "18:00",
+          "Café Savoy",
+          "Confirmed table for two. Reference B9LP46Y2."
+        ],
+        [
+          "Evening",
+          "Kampa and Charles Bridge",
+          "Relaxed post-dinner river walk."
+        ]
+      ]
+    },
+    {
+      "id": "sun",
+      "date": "Sunday 26 July",
+      "title": "Prague and Pitbull",
+      "summary": [
+        "Morning — Breakfast",
+        "Late morning — Letná / Holešovice",
+        "Early afternoon — Lunch",
+        "15:00 — Doors open",
+        "Pitbull stage time — TBC",
+        "Arrival plan — TBC"
+      ],
+      "timeline": [
+        [
+          "Morning",
+          "Breakfast",
+          "Choose Eska, Můj šálek kávy or a nearby café."
+        ],
+        [
+          "Late morning",
+          "Letná / Holešovice",
+          "Viewpoint, beer garden or alternative Prague."
+        ],
+        [
+          "Early afternoon",
+          "Proper lunch",
+          "Eat before travelling to Letňany."
+        ],
+        [
+          "15:00",
+          "Venue doors open",
+          "This is not the planned arrival time."
+        ],
+        [
+          "TBC",
+          "Travel to Letňany",
+          "Set departure once expected stage time is published."
+        ],
+        [
+          "Later",
+          "Pitbull — I’m Back!",
+          "General Admission at Letiště Letňany."
+        ],
+        [
+          "After show",
+          "Return to central Prague",
+          "Allow extra time for busy public transport."
+        ]
+      ]
+    },
+    {
+      "id": "mon",
+      "date": "Monday 27 July",
+      "title": "Castle and journey home",
+      "summary": [
+        "Morning — Prague Castle",
+        "11:00 — Checkout",
+        "Lunch — Final Czech meal",
+        "≈15:15 — Airport target",
+        "17:45 — BA855 departs",
+        "18:55 — Heathrow arrival",
+        "20:00 — Parking booking"
+      ],
+      "timeline": [
+        [
+          "Morning",
+          "Prague Castle / Malá Strana",
+          "Start early enough to enjoy the area."
+        ],
+        [
+          "11:00",
+          "Airbnb checkout",
+          "Leave Dlouhá 717/40."
+        ],
+        [
+          "Lunch",
+          "Final meal",
+          "Keep airport timing in mind."
+        ],
+        [
+          "≈15:15",
+          "Target Prague Airport",
+          "Terminal 1 with comfortable time."
+        ],
+        [
+          "17:45",
+          "BA855 departs",
+          "Prague T1 → Heathrow T3."
+        ],
+        [
+          "18:55",
+          "Arrive Heathrow",
+          "UK local time; shuttle to Maple Express."
+        ],
+        [
+          "20:00",
+          "Parking booking",
+          "Collect car and drive home."
+        ]
+      ]
+    }
+  ],
+  "places": [
+    [
+      "Café Savoy",
+      "Booked dinner · Sat 18:00",
+      "https://www.cafesavoy.ambi.cz/en/menu/cafe-menu"
+    ],
+    [
+      "Lokál Dlouhááá",
+      "Czech food · near Airbnb",
+      "https://www.google.com/maps/search/?api=1&query=Lok%C3%A1l+Dlouh%C3%A1%C3%A1%C3%A1"
+    ],
+    [
+      "Kantýna",
+      "Czech food · meat and beer",
+      "https://www.google.com/maps/search/?api=1&query=Kant%C3%BDna+Prague"
+    ],
+    [
+      "Kuchyň",
+      "Czech food · castle views",
+      "https://www.google.com/maps/search/?api=1&query=Kuchy%C5%88+Prague"
+    ],
+    [
+      "Eska",
+      "Breakfast · Karlín",
+      "https://www.google.com/maps/search/?api=1&query=Eska+Prague"
+    ],
+    [
+      "Letná Park",
+      "Viewpoint · sunset option",
+      "https://www.google.com/maps/search/?api=1&query=Letn%C3%A1+Park+Prague"
+    ],
+    [
+      "Prague Castle",
+      "Sight · Monday",
+      "https://www.google.com/maps/search/?api=1&query=Prague+Castle"
+    ],
+    [
+      "Letiště Letňany",
+      "Concert venue",
+      "https://www.google.com/maps/search/?api=1&query=Leti%C5%A1t%C4%9B+Praha+Let%C5%88any"
+    ]
+  ]
+}
